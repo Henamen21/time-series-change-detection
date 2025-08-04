@@ -5,3 +5,5 @@ matplotlib
 seaborn
 pytest
 ipykernel
+pymc3
+arviz
